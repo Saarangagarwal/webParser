@@ -1,0 +1,15 @@
+{
+  "name": "parserproblemcondoworks",
+  "version": "1.0.0",
+  "description": "question 1 of the condoWorks uw coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Saarang Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "console-read-write": "^0.1.1",
+    "node-fetch": "^2.6.1"
+  }
+}
